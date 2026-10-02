@@ -62,11 +62,11 @@ The database stores information about customers, restaurants, food items, menus,
 
 ### Visual ER Diagram
 
-![Swiggy Entity Relationship Diagram](assets/er-diagram.png)
+![Swiggy Entity Relationship Diagram](assests/er-diagram.png)
 
 ### MySQL Workbench Model
 
-![Swiggy MySQL Workbench Model](assets/sql-model.png)
+![Swiggy MySQL Workbench Model](assests/sql-model.png)
 
 ---
 
@@ -410,7 +410,7 @@ Swiggy-Database/
 ├── README.md              📘 Project documentation
 ├── Swiggy_db.sql          🗄️ Database creation script
 │
-└── assets/
+└── assests/
     ├── er-diagram.png     🗺️ ER diagram
     └── sql-model.png      🛠️ MySQL Workbench model
 ```
